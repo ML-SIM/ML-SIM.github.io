@@ -3567,7 +3567,7 @@ input, select, textarea {
 		-ms-justify-content: center;
 		justify-content: center;
 		cursor: default;
-		height: 100vh;
+        padding-bottom: 50px;
 		min-height: 35em;
 		overflow: hidden;
 		position: relative;
