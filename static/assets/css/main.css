@@ -3568,6 +3568,7 @@ input, select, textarea {
 		justify-content: center;
 		cursor: default;
         padding-bottom: 50px;
+        padding-top: 50px;
 		min-height: 35em;
 		overflow: hidden;
 		position: relative;
